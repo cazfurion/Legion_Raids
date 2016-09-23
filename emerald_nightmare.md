@@ -179,7 +179,8 @@
 * Each dragon has an aura - They must be kept spread out - 45 yard range - Ticking damage - 10 stacks = 30 second stun - Swap at 6 or 7 stacks.
 
 ## Ysondre
-* Defiled Spirit - Purple circle on random ranged player. Roots all players. Explodes after a time. Dispelling will remove root. BoF and Blink will also remove it. Spread out if Ysondre is down.
+* Defiled Spirit - Purple circle on random ranged player. Roots all players. Explodes after a time. Dispelling will remove root. BoF and Blink will also remove it. 
+* Spread out if Ysondre is not flying.
 * Nightmare Blast - Ball of bad stuff. Avoid it. Spawns a nightmare bloom flower. Does damage to nearby players. Someone MUST stand near them. Lasts about a minute. If no one is near a dread horror will spawn. Kill dread horror adds asap (ranged DPS).
 
 ## Taerar
