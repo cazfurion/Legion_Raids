@@ -125,10 +125,12 @@
 
 ## Drake 
 * Looks like a large egg 
+
 ### Bad Version
 * Breath ability (like all breaths). 
 * Initial breath direction is at random player. 
 * Pulses AoE damage at low health. Must be executed ASAP. 
+
 ### Good Version
 * Cleansed eggs give emerald drakes. 
 * Breath that fixates on tank that buffs healing taken by 50% and will heal you if you're about to die. 
@@ -136,23 +138,30 @@
 
 ## Ancient 
 * Looks like a nightmare sapling 
+
 ### Bad Version - Nightmare Ancient
 * Dessicating Stomp. AoE split around base. MUST HAVE ONE person near him minimum or we wipe. 
+
 ### Good Version
 * A charmed ancient will cast replenishing roots that returns mana. 
 * **High priority add to charm if healers are low on mana**
 
 ## Sisters 
 * Looks like butterflies 
+
 ### Bad Version - Twisted Sisters 
 * Debuff that does ticking damage for 6 seconds. Spread out if you have the debuff. 
 * Scorned Touch - Spawns a large circle that will chain to others. **MOVE OUT OF IT OR WE WIPE.** 
 * Twisted Touch of Life (interruptable) - Heals adds and Cenarius. **MUST BE INTERRUPTED.**
+
 ### Good Version
 * Cleansed Sisters - reduces shadow damage, invuln to moving impairing effect, 75% movement speed increase.
+
 ## Wisps 
+
 ### Bad Version
 * Tormented souls - AoE burst at highest threat person. Kill them. 
+
 ### Good Version
 * Charmed wisps will place more `Cleansed Ground`.
 
