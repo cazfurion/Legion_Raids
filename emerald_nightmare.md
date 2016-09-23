@@ -8,7 +8,6 @@
 * [Xavius](#xavius)
 
 # Nythendra
-* Avoid Tail
 * Avoid Head (unless you're a tank)
 
 * Stack together in melee range
