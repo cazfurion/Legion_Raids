@@ -24,6 +24,8 @@
 ## Sleep Phase
 * Green patches move towards center of the room. Avoid them. 
 * Bugs are spread around the room. Some grow and pulse at 10 yards. Avoid them.
+ 
+[Back to Table of Contents](#table-of-contents)
 
 # Il'gynoth, The Heart of Corruption (The Evil Tree)
 ## Outside Phase
@@ -58,6 +60,8 @@
 
 * Dark Reconstituion - **GET OUT OF THE TREE BEFORE THIS FINISHES CASTING** (or you die)
 
+[Back to Table of Contents](#table-of-contents)
+
 # Ursoc
 * DPS Check
 
@@ -79,6 +83,8 @@
 * Overwhelm - 20% armor reduction. 250% increased damage from Rend Flesh - Stacks
 * One tank taunts for Overwhelm, one tank taunts for Rend Flesh. 
 * Need to swap at some point who taunts when
+
+[Back to Table of Contents](#table-of-contents)
 
 # Elerethe Renferal
 
@@ -108,6 +114,8 @@
 * Transition to her new platform as quickly as possible.
 * Raid wide damage until everyone is on the new platform
 * **Avoid tornados!**
+
+[Back to Table of Contents](#table-of-contents)
 
 # Cenarius
 * 2 Phase Fight
@@ -173,6 +181,8 @@
 
 * Spear of Nightmare - Large single hit that adds a debuff that increases the damage of this ability. Tank swap. Puddle appears below based off of damage taken. USE COOLDOWNS AND EXTERNALS.
 
+[Back to Table of Contents](#table-of-contents)
+
 # Dragons of Nightmare
 
 * Normal dragon abilities - Breath and tail swipe
@@ -198,6 +208,8 @@
 * Gloom - Comet like ability. Don't stand in it
 * Syphon Spirit - Pulls a player towards Lethon. If it reaches him he's healed. KILL THE SPIRIT ASAP
 * While in air - Shadow burst - Marks a player for 10 seconds that will then apply to nearby players that slows and ticks. Stacks. 
+
+[Back to Table of Contents](#table-of-contents)
 
 # Xavius
 
@@ -233,3 +245,5 @@
 * Nightmare Tentacles - Nightmare Bolt - Small damage on random player, 3 corruption. 
 
 * **BURN BOSS! IGNORE TENTACLES!**
+
+[Back to Table of Contents](#table-of-contents)
