@@ -33,13 +33,13 @@
 
 * Adds spawn outside of the tree. 
 
-* Try to stay spread out. Don't stand in s
+* Try to stay spread out. Don't stand in poop.
 
 * Tentacles - Nightmare Fury - Requires active mitigation
 
 * Nightmare Horror - Eye of Fate - Massive Damage - 30 second debuff - 50% increase damage from Eye of Fate. Requires tank swap and personal/external cooldowns
 
-* Currupter Tentacles - Spew Corruption - 10 sec debuff - Forces player to spawn goo on ground
+* Corrupter Tentacles - Spew Corruption - 10 sec debuff - Forces player to spawn goo on ground
 
 * Death Glare Tentacles - Mind Flay - **MUST be interrupted**. 
 
